@@ -1,0 +1,6 @@
+Hefty;Smurf;03/04/1960;1.70;49;NA
+Brainy;Smurf;04/05/1980;1.75;170;NA
+Clumsy;Smurf;06/08/1979;1.80;45;NA
+Clockwork;Black;22/01/1990;1.60;70;NA
+Greedy;Smurf;04/10/2000;1.83;60;NA
+Hefty;Brown;01/07/1989;1.65;52;NA
